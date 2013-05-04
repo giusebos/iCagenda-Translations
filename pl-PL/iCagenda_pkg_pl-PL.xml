@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension method="upgrade" type="file" version="2.5">
+
+	<name>iCagenda - Polish PL Language Pack</name>
+	<tag>pl-PL</tag>
+	<creationDate>2013-04-19</creationDate>
+	<version>2.1.6</version>
+	<author>KISweb</author>
+	<authorEmail>info@kisweb.pl</authorEmail>
+	<authorUrl>kisweb.pl</authorUrl>
+	<copyright>Copyright (C) 2012 Jooml!C. All Rights Reserved</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<url>http://www.joomlic.com</url>
+	<description>
+		<![CDATA[
+		<h2>Pełne polskie (pl-PL) tłumaczenie dla komponentu iCagenda w wersji 2.1.6</h2>
+		<h3>Tłumaczenie: KISweb</h3>
+		<br>
+		]]>
+	</description>
+
+	<fileset>
+		<files folder="admin" target="administrator/language/pl-PL/">
+			<filename>pl-PL.com_icagenda.ini</filename>
+			<filename>pl-PL.com_icagenda.sys.ini</filename>
+		</files>
+		<files folder="module" target="language/pl-PL/">
+			<filename>pl-PL.mod_iccalendar.ini</filename>
+		</files>
+		<files folder="site" target="language/pl-PL/">
+			<filename>pl-PL.com_icagenda.ini</filename>
+		</files>
+	</fileset>
+	
+	<updateservers>
+		<server type="collection" priority="1" name="JoomliC Update Server">http://www.joomlic.com/icupdate/icagenda/translations.xml</server>
+	</updateservers>
+</extension>

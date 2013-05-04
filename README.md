@@ -1,9 +1,27 @@
+2.1.2 Translation Packs OK
+==========================
+- DUTCH (nl-NL) : soon
+- ENGLISH (en-GB) : online
+- ENGLISH / USA (en-US) : online
+- FINNISH (fi-FI) : online
+- FRENCH (fr-FR) : online
+- ITALIAN (it-IT) : online
+- LATVIAN (lv-LV) : online
+- NORWEGIAN (nb-NO) : online
+- PORTUGUESE / BRAZIL (pt-BR) : online
+- PORTUGUESE (pt-PT) : online
+- ...
+
 iCagenda Translation Packs
 ==========================
-Before updating a Translation Pack, thanks to have a look at the new strings of translation there : http://joomlic.github.com/iCagenda-Translations/
+
+important : a few new strings for 2.1.2 !
+
+Before updating a Translation Pack, thanks to have a look at the new strings of translation there : https://github.com/JoomliC/iCagenda-Translations/tree/master/xx-XX%20News%20strings%202.1
 
 Note that in developpement, i update myself English files (and French), so you can take English en-GB as a reference.
 The better way is to have the same order, and display, so that you will be able to compare with your own files.
+Like that, you can compare the total number of lines, and now if missing strings!
 
 When you have finished to update all the files, then you can update the number of the version, and change the version date in the iCagenda_pkg_xx-XX.xml of your folder, so that i know that you have finish to translate all the files.
 
@@ -12,8 +30,7 @@ Thanks to everyone, and hope that GitHub will help us to update in an easier way
 Lyr!C
 
 
-VERSION 1.2.7 Ready : en-GB (Lyr!C) / fr-FR (Lyr!C) / it-IT (giusebos) / pt-BR (carosouza) / el-GR (elinag) / nb-NO (rikrei)
-
-VERSION 1.2.7 to be update : de-DE (BMB) / lv-LV (kredo9) / sk-SK (JRIBARSZKI) / nl-NL (walldorff) / es-ES (elerizo) / ru-RU (MSV) / 
 
 Translator with its own update server : cz-CZ (Bong)
+
+
